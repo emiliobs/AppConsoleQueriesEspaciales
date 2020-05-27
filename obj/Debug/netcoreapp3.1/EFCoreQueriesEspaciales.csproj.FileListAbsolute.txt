@@ -60,3 +60,5 @@
 /home/emilio/Projects/EFCoreQueriesEspaciales/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Configuration.dll
 /home/emilio/Projects/EFCoreQueriesEspaciales/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Logging.Console.dll
 /home/emilio/Projects/EFCoreQueriesEspaciales/bin/Debug/netcoreapp3.1/Microsoft.Extensions.Options.ConfigurationExtensions.dll
+/home/emilio/Projects/EFCoreQueriesEspaciales/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.Relational.Design.dll
+/home/emilio/Projects/EFCoreQueriesEspaciales/bin/Debug/netcoreapp3.1/Microsoft.EntityFrameworkCore.SqlServer.Design.dll
